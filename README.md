@@ -29,8 +29,8 @@ This project predicts whether a student will get placed based on academic and sk
 
 ## 🌐 Live Demo
 
-Frontend: (your streamlit link)
-Backend API: (your render link)
+Frontend: [(your streamlit link)](https://placement-predictorr-2hmraaf5odgqxxcw9gdxu3.streamlit.app/)
+Backend API: [(your render link)](https://placement-predictorr-2hmraaf5odgqxxcw9gdxu3.streamlit.app/)
 
 ## 🧪 Run Locally
 
