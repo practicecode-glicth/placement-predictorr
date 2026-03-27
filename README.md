@@ -1,5 +1,7 @@
 # placement-predictorr# 🎓 Placement Prediction System
 
+backend : https://placed-1hxs.onrender.com
+
 ## 🚀 Overview
 
 This project predicts whether a student will get placed based on academic and skill parameters using Machine Learning.
